@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer science and Data analysis
 - 💞️ I’m looking to collaborate on GitHub with like-minded individuals
 - 📫 How to reach me on this mail emmanuelejii17@gmail.com
-- 😄 Pronouns:He/him
 - ⚡ Fun fact: Working is action 👨‍💻
 
 <!---
