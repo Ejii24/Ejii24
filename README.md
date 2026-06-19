@@ -1,8 +1,26 @@
-- 👋 Hi, I’m Emmanuel Ejii
-- 👀 I’m interested in everything that has to do with Tec
-- 🌱 I’m currently learning Computer science and Data analysis
-- 💞️ I’m looking to collaborate on GitHub with like-minded individuals
-- ⚡ Fun fact: Working is action 👨‍💻
+
+# Emmanuel Ejii
+
+Machine Learning Engineer | Founder & CEO at SoundSource Technologies Limited
+
+Building AI-powered voice recording and transcription for African and global markets.
+
+## About
+- 🎓 B.Sc. Computer Science, Ignatius Ajuru University of Education (2025)
+- 🔬 AI Domains: Audio, Security, Tiny LLMs, NLP
+- 🏢 Founder: SoundSource Technologies Limited
+- 📍 Port Harcourt, Nigeria
+
+## Certifications
+- Google Technical Support Fundamentals (Coursera)
+- AI Fundamentals for Non-Data Scientists (Wharton School, UPenn)
+- Introduction to Cybersecurity (Cisco Networking Academy)
+- Ethical Hacking From Scratch (Udemy)
+
+## Connect
+- 🌐 https://soundsource.app
+- 💼 https://www.linkedin.com/in/emmanuel-ejii/
+- 🐦 https://x.com/EmmanuelEjii
 
 <!---
 Ejii24/Ejii24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
